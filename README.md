@@ -12,7 +12,8 @@ Targeted Domain Filtering: Search results are restricted to specific domains, su
 
 Error Handling: Ensures smooth operation with validation of user input and error management.
 
-RavenCunanan/CustomAISearchEngine
+
+![21](https://github.com/user-attachments/assets/526e9f3a-db90-4366-a826-96574abfa90b)
 
 
 ## To Use:
