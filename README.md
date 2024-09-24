@@ -13,7 +13,8 @@ Targeted Domain Filtering: Search results are restricted to specific domains, su
 Error Handling: Ensures smooth operation with validation of user input and error management.
 
 
-![21](https://github.com/user-attachments/assets/526e9f3a-db90-4366-a826-96574abfa90b)
+![21](https://github.com/user-attachments/assets/d87a017c-9750-48d2-ba84-eae8d8902d37)
+
 
 
 ## To Use:
