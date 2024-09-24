@@ -1,6 +1,16 @@
-# AI Search Engine
+# Custom AI Search Engine
 
-The TikTok Search Assistant Powered by AI uses the Exa API to search TikTok content based on user queries. It retrieves and ranks results by relevance, offering users a fast and efficient way to explore TikTok videos. The search engine supports keyword-based queries, customizable filters, and displays the top results in a user-friendly format, making content discovery easier and more intuitive.
+AI-Powered Search Engine with Exa API.
+
+This project is an AI-driven search engine that uses the Exa API to retrieve search results. Users can input a search query, specify how many results they want, and receive real-time results from targeted domains, including TikTok.
+
+Features.
+
+Real-Time Search: Enter a query and fetch results instantly from the Exa API.
+
+Targeted Domain Filtering: Search results are restricted to specific domains, such as TikTok.
+
+Error Handling: Ensures smooth operation with validation of user input and error management.
 
 
 ## To Use:
